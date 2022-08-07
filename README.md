@@ -9,7 +9,7 @@ Design Simple UI redesign using Figma
 
 ```Redesign - [fuelpass registration website of Sri Lanka](https://fuelpass.gov.lk/register)```
 
-## website Select to Redesign
+## Website Select to Redesign
 
 [Fuelpass Registration website of Sri Lanka](https://fuelpass.gov.lk/register)
 

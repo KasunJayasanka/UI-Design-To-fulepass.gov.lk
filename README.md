@@ -5,7 +5,7 @@
 
 Design Simple UI redesign using Figma
 
-<img src="https://infonaira.com/wp-content/uploads/2022/03/FIgma-logo.png"  width="1374" height="710">
+<img src="https://infonaira.com/wp-content/uploads/2022/03/FIgma-logo.png"  width="720" height="300">
 
 ```Redesign - [fuelpass registration website of Sri Lanka](https://fuelpass.gov.lk/register)```
 

@@ -5,13 +5,13 @@
 
 Design Simple UI redesign using Figma
 
-![Figma Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/400px-Figma-logo.svg.png?20190122211436)
+![Figma Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/400px-Figma-logo.svg.png?20190122211436 =250x250)
 
 ```Redesign - [fuelpass registration website of Sri Lanka](https://fuelpass.gov.lk/register)```
 
 ## website Select to Redesign
 
-[Fuelpass egistration website of Sri Lanka](https://fuelpass.gov.lk/register)
+[Fuelpass Registration website of Sri Lanka](https://fuelpass.gov.lk/register)
 
 ## Tool which used
 

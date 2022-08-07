@@ -25,7 +25,7 @@ Design Simple UI redesign using Figma
 
 [Click Here](https://www.figma.com/proto/0AjdKMljj9kQwRkP2nn8c0/fuelpass.gov.lk-home-page-re?node-id=0%3A1&scaling=min-zoom&page-id=0%3A1)
 
-## UI
+# Designed UI
 
 ![Design](https://user-images.githubusercontent.com/97845543/183279165-9acaccaf-12bd-486c-a6c7-656d916bc0fd.jpg)
 

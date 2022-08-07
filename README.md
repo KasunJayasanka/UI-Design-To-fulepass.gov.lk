@@ -5,7 +5,7 @@
 
 Design Simple UI redesign using Figma
 
-![Figma Logo](https://www.bookmarks.design/media/image/figma.jpg)
+<img src="https://mma.prnewswire.com/media/1513369/Educative_Logo.jpg"  width="50" height="50">
 
 ```Redesign - [fuelpass registration website of Sri Lanka](https://fuelpass.gov.lk/register)```
 

@@ -29,6 +29,16 @@ Design Simple UI redesign using Figma
 
 ![Design](https://user-images.githubusercontent.com/97845543/183279165-9acaccaf-12bd-486c-a6c7-656d916bc0fd.jpg)
 
+```Designed By```
+
+### Kasun Jayasanka
+### Undergraduate
+### Bsc.(Hons) IT & Management
+### University of Moratuwa
+### Sri Lanka
+
+```Thank You!```
+
 
 
 

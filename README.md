@@ -31,11 +31,11 @@ Design Simple UI redesign using Figma
 
 ```Designed By```
 
-## Kasun Jayasanka
-## Undergraduate
-## Bsc.(Hons) IT & Management
-## University of Moratuwa
-## Sri Lanka
+#### Kasun Jayasanka
+#### Undergraduate
+#### Bsc.(Hons) IT & Management
+#### University of Moratuwa
+#### Sri Lanka
 
 ```Thank You!```
 
